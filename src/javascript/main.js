@@ -2,8 +2,8 @@ async function startTyping() {
   var typed = new Typed(".typing", {
     strings: [
       "Hey I am Sanit Arya.",
-      "I am a student.",
-      "I am a Game Developer.",
+      "I am a Student.",
+      "And a Game Developer.",
     ],
     smartBackspace: true,
     loop: true,
